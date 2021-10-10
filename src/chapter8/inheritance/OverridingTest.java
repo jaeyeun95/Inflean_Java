@@ -6,6 +6,7 @@ public class OverridingTest {
         int price = customerWho.calcPrice(10000);
         System.out.println("지불 금액은 " + price + "이고, " + customerWho.showCustomerInfo());
 
+        // dfasdfasdfsadf
         Customer customerGold = new GoldCustomer();
 
     }
