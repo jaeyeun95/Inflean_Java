@@ -12,6 +12,10 @@ public class VIPCustomer extends Customer {
         // System.out.println("VIPCustomer() 호출");
     }
 
+    public VIPCustomer(int price, String customerName, double saleRatio) {
+        this.customerName = customerName;
+    }
+
     public int getAgentID() {
         return agentID;
     }
