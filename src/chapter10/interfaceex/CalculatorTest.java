@@ -14,6 +14,13 @@ public class CalculatorTest {
         // Clac cal12 = new Calculator();
         System.out.println(calc.add(num1, num2));
 
+        calc.description();
+
+        // static 메소드이기 때문에 인스턴화할 필요없이 바로 사용가능하다.
+        int[] arr = { 1, 2, 3, 4, 5 };
+        int sum = Calc.total(arr);
+        System.out.println(sum);
+
     }
 
 }
