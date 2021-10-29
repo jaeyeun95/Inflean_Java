@@ -1,4 +1,4 @@
-package chapter13;
+package chapter13.innerclass;
 
 class OutClass {
     private int num = 10;
