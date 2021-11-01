@@ -1,0 +1,630 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch FileInputStreamTest",
+            "request": "launch",
+            "mainClass": "chapter15.stream.input.FileInputStreamTest",
+            "projectName": "Inflean_Java_c27c4cc7"
+        },
+        {
+            "type": "java",
+            "name": "Launch Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Launch App",
+            "request": "launch",
+            "mainClass": "App",
+            "projectName": "Inflean_Java_c27c4cc7"
+        },
+        {
+            "type": "java",
+            "name": "Launch Main",
+            "request": "launch",
+            "mainClass": "Main",
+            "projectName": "Inflean_Java_c27c4cc7"
+        },
+        {
+            "type": "java",
+            "name": "Launch Solution",
+            "request": "launch",
+            "mainClass": "Solution",
+            "projectName": "Inflean_Java_c27c4cc7"
+        },
+        {
+            "type": "java",
+            "name": "Launch BookShelfTest",
+            "request": "launch",
+            "mainClass": "chapter10.bookshelf.BookShelfTest",
+            "projectName": "Inflean_Java_c27c4cc7"
+        },
+        {
+            "type": "java",
+            "name": "Launch CalculatorTest",
+            "request": "launch",
+            "mainClass": "chapter10.interfaceex.CalculatorTest",
+            "projectName": "Inflean_Java_c27c4cc7"
+        },
+        {
+            "type": "java",
+            "name": "Launch CustomerTest",
+            "request": "launch",
+            "mainClass": "chapter10.interfaceex.CustomerTest",
+            "projectName": "Inflean_Java_c27c4cc7"
+        },
+        {
+            "type": "java",
+            "name": "Launch MyClass",
+            "request": "launch",
+            "mainClass": "chapter10.interfaceex.MyClass",
+            "projectName": "Inflean_Java_c27c4cc7"
+        },
+        {
+            "type": "java",
+            "name": "Launch SchedulerTest",
+            "request": "launch",
+            "mainClass": "chapter10.scheduler.SchedulerTest",
+            "projectName": "Inflean_Java_c27c4cc7"
+        },
+        {
+            "type": "java",
+            "name": "Launch ClassTest",
+            "request": "launch",
+            "mainClass": "chapter11.classex.ClassTest",
+            "projectName": "Inflean_Java_c27c4cc7"
+        },
+        {
+            "type": "java",
+            "name": "Launch StringTest",
+            "request": "launch",
+            "mainClass": "chapter11.classex.StringTest",
+            "projectName": "Inflean_Java_c27c4cc7"
+        },
+        {
+            "type": "java",
+            "name": "Launch EqualsTest",
+            "request": "launch",
+            "mainClass": "chapter11.object.EqualsTest",
+            "projectName": "Inflean_Java_c27c4cc7"
+        },
+        {
+            "type": "java",
+            "name": "Launch ObjectCloneTest",
+            "request": "launch",
+            "mainClass": "chapter11.object.ObjectCloneTest",
+            "projectName": "Inflean_Java_c27c4cc7"
+        },
+        {
+            "type": "java",
+            "name": "Launch ToStringEx",
+            "request": "launch",
+            "mainClass": "chapter11.object.ToStringEx",
+            "projectName": "Inflean_Java_c27c4cc7"
+        },
+        {
+            "type": "java",
+            "name": "Launch StringBuilderTest",
+            "request": "launch",
+            "mainClass": "chapter11.string.StringBuilderTest",
+            "projectName": "Inflean_Java_c27c4cc7"
+        },
+        {
+            "type": "java",
+            "name": "Launch StringTest(1)",
+            "request": "launch",
+            "mainClass": "chapter11.string.StringTest",
+            "projectName": "Inflean_Java_c27c4cc7"
+        },
+        {
+            "type": "java",
+            "name": "Launch MemberArrayListTest",
+            "request": "launch",
+            "mainClass": "chapter12.collection.arraylist.MemberArrayListTest",
+            "projectName": "Inflean_Java_c27c4cc7"
+        },
+        {
+            "type": "java",
+            "name": "Launch QueueTest",
+            "request": "launch",
+            "mainClass": "chapter12.collection.arraylist.QueueTest",
+            "projectName": "Inflean_Java_c27c4cc7"
+        },
+        {
+            "type": "java",
+            "name": "Launch StackTest",
+            "request": "launch",
+            "mainClass": "chapter12.collection.arraylist.StackTest",
+            "projectName": "Inflean_Java_c27c4cc7"
+        },
+        {
+            "type": "java",
+            "name": "Launch MemberHashMapTest",
+            "request": "launch",
+            "mainClass": "chapter12.collection.hashmap.MemberHashMapTest",
+            "projectName": "Inflean_Java_c27c4cc7"
+        },
+        {
+            "type": "java",
+            "name": "Launch HashSetTest",
+            "request": "launch",
+            "mainClass": "chapter12.collection.hashset.HashSetTest",
+            "projectName": "Inflean_Java_c27c4cc7"
+        },
+        {
+            "type": "java",
+            "name": "Launch MemberHashSetTest",
+            "request": "launch",
+            "mainClass": "chapter12.collection.hashset.MemberHashSetTest",
+            "projectName": "Inflean_Java_c27c4cc7"
+        },
+        {
+            "type": "java",
+            "name": "Launch MemberTreeMapTest",
+            "request": "launch",
+            "mainClass": "chapter12.collection.treemap.MemberTreeMapTest",
+            "projectName": "Inflean_Java_c27c4cc7"
+        },
+        {
+            "type": "java",
+            "name": "Launch ComparatorTest",
+            "request": "launch",
+            "mainClass": "chapter12.collection.treeset.ComparatorTest",
+            "projectName": "Inflean_Java_c27c4cc7"
+        },
+        {
+            "type": "java",
+            "name": "Launch MemberTreeSetTest",
+            "request": "launch",
+            "mainClass": "chapter12.collection.treeset.MemberTreeSetTest",
+            "projectName": "Inflean_Java_c27c4cc7"
+        },
+        {
+            "type": "java",
+            "name": "Launch TreeSetTest",
+            "request": "launch",
+            "mainClass": "chapter12.collection.treeset.TreeSetTest",
+            "projectName": "Inflean_Java_c27c4cc7"
+        },
+        {
+            "type": "java",
+            "name": "Launch TreeDPrinterTest",
+            "request": "launch",
+            "mainClass": "chapter12.generics.TreeDPrinterTest",
+            "projectName": "Inflean_Java_c27c4cc7"
+        },
+        {
+            "type": "java",
+            "name": "Launch InnerClass",
+            "request": "launch",
+            "mainClass": "chapter13.innerclass.InnerClass",
+            "projectName": "Inflean_Java_c27c4cc7"
+        },
+        {
+            "type": "java",
+            "name": "Launch LocalInnerTest",
+            "request": "launch",
+            "mainClass": "chapter13.innerclass.LocalInnerTest",
+            "projectName": "Inflean_Java_c27c4cc7"
+        },
+        {
+            "type": "java",
+            "name": "Launch LambdaTest",
+            "request": "launch",
+            "mainClass": "chapter13.lambda.LambdaTest",
+            "projectName": "Inflean_Java_c27c4cc7"
+        },
+        {
+            "type": "java",
+            "name": "Launch TestMyNumber",
+            "request": "launch",
+            "mainClass": "chapter13.lambda.TestMyNumber",
+            "projectName": "Inflean_Java_c27c4cc7"
+        },
+        {
+            "type": "java",
+            "name": "Launch TestStringConcat",
+            "request": "launch",
+            "mainClass": "chapter13.lambda.TestStringConcat",
+            "projectName": "Inflean_Java_c27c4cc7"
+        },
+        {
+            "type": "java",
+            "name": "Launch ArrayListTest",
+            "request": "launch",
+            "mainClass": "chapter13.stream.ArrayListTest",
+            "projectName": "Inflean_Java_c27c4cc7"
+        },
+        {
+            "type": "java",
+            "name": "Launch IntArrayTest",
+            "request": "launch",
+            "mainClass": "chapter13.stream.IntArrayTest",
+            "projectName": "Inflean_Java_c27c4cc7"
+        },
+        {
+            "type": "java",
+            "name": "Launch ReduceTest",
+            "request": "launch",
+            "mainClass": "chapter13.stream.ReduceTest",
+            "projectName": "Inflean_Java_c27c4cc7"
+        },
+        {
+            "type": "java",
+            "name": "Launch SystemInTest",
+            "request": "launch",
+            "mainClass": "chapter15.stream.input.SystemInTest",
+            "projectName": "Inflean_Java_c27c4cc7"
+        },
+        {
+            "type": "java",
+            "name": "Launch BinaryTest",
+            "request": "launch",
+            "mainClass": "chapter2.BinaryTest",
+            "projectName": "Inflean_Java_c27c4cc7"
+        },
+        {
+            "type": "java",
+            "name": "Launch BiteVariable",
+            "request": "launch",
+            "mainClass": "chapter2.BiteVariable",
+            "projectName": "Inflean_Java_c27c4cc7"
+        },
+        {
+            "type": "java",
+            "name": "Launch CharacterEx",
+            "request": "launch",
+            "mainClass": "chapter2.CharacterEx",
+            "projectName": "Inflean_Java_c27c4cc7"
+        },
+        {
+            "type": "java",
+            "name": "Launch Constant",
+            "request": "launch",
+            "mainClass": "chapter2.Constant",
+            "projectName": "Inflean_Java_c27c4cc7"
+        },
+        {
+            "type": "java",
+            "name": "Launch DoubleEx",
+            "request": "launch",
+            "mainClass": "chapter2.DoubleEx",
+            "projectName": "Inflean_Java_c27c4cc7"
+        },
+        {
+            "type": "java",
+            "name": "Launch ExplicitConversion",
+            "request": "launch",
+            "mainClass": "chapter2.ExplicitConversion",
+            "projectName": "Inflean_Java_c27c4cc7"
+        },
+        {
+            "type": "java",
+            "name": "Launch ImplicitConversion",
+            "request": "launch",
+            "mainClass": "chapter2.ImplicitConversion",
+            "projectName": "Inflean_Java_c27c4cc7"
+        },
+        {
+            "type": "java",
+            "name": "Launch VariableEx",
+            "request": "launch",
+            "mainClass": "chapter2.VariableEx",
+            "projectName": "Inflean_Java_c27c4cc7"
+        },
+        {
+            "type": "java",
+            "name": "Launch VariableEx2",
+            "request": "launch",
+            "mainClass": "chapter2.VariableEx2",
+            "projectName": "Inflean_Java_c27c4cc7"
+        },
+        {
+            "type": "java",
+            "name": "Launch OperationEx",
+            "request": "launch",
+            "mainClass": "chapter3.OperationEx",
+            "projectName": "Inflean_Java_c27c4cc7"
+        },
+        {
+            "type": "java",
+            "name": "Launch OperationEx2",
+            "request": "launch",
+            "mainClass": "chapter3.OperationEx2",
+            "projectName": "Inflean_Java_c27c4cc7"
+        },
+        {
+            "type": "java",
+            "name": "Launch OperationEx3",
+            "request": "launch",
+            "mainClass": "chapter3.OperationEx3",
+            "projectName": "Inflean_Java_c27c4cc7"
+        },
+        {
+            "type": "java",
+            "name": "Launch OperationEx4",
+            "request": "launch",
+            "mainClass": "chapter3.OperationEx4",
+            "projectName": "Inflean_Java_c27c4cc7"
+        },
+        {
+            "type": "java",
+            "name": "Launch IfExample1",
+            "request": "launch",
+            "mainClass": "chapter4.IfExample1",
+            "projectName": "Inflean_Java_c27c4cc7"
+        },
+        {
+            "type": "java",
+            "name": "Launch IfExample2",
+            "request": "launch",
+            "mainClass": "chapter4.IfExample2",
+            "projectName": "Inflean_Java_c27c4cc7"
+        },
+        {
+            "type": "java",
+            "name": "Launch IfExample3",
+            "request": "launch",
+            "mainClass": "chapter4.IfExample3",
+            "projectName": "Inflean_Java_c27c4cc7"
+        },
+        {
+            "type": "java",
+            "name": "Launch SwitchCase",
+            "request": "launch",
+            "mainClass": "chapter4.SwitchCase",
+            "projectName": "Inflean_Java_c27c4cc7"
+        },
+        {
+            "type": "java",
+            "name": "Launch SwitchCase2",
+            "request": "launch",
+            "mainClass": "chapter4.SwitchCase2",
+            "projectName": "Inflean_Java_c27c4cc7"
+        },
+        {
+            "type": "java",
+            "name": "Launch BreakExample",
+            "request": "launch",
+            "mainClass": "chapter4.loopExample.BreakExample",
+            "projectName": "Inflean_Java_c27c4cc7"
+        },
+        {
+            "type": "java",
+            "name": "Launch ContinueExample",
+            "request": "launch",
+            "mainClass": "chapter4.loopExample.ContinueExample",
+            "projectName": "Inflean_Java_c27c4cc7"
+        },
+        {
+            "type": "java",
+            "name": "Launch ForExample",
+            "request": "launch",
+            "mainClass": "chapter4.loopExample.ForExample",
+            "projectName": "Inflean_Java_c27c4cc7"
+        },
+        {
+            "type": "java",
+            "name": "Launch ForExample2",
+            "request": "launch",
+            "mainClass": "chapter4.loopExample.ForExample2",
+            "projectName": "Inflean_Java_c27c4cc7"
+        },
+        {
+            "type": "java",
+            "name": "Launch WhileExample",
+            "request": "launch",
+            "mainClass": "chapter4.loopExample.WhileExample",
+            "projectName": "Inflean_Java_c27c4cc7"
+        },
+        {
+            "type": "java",
+            "name": "Launch FunctionTest",
+            "request": "launch",
+            "mainClass": "chapter5.FunctionTest",
+            "projectName": "Inflean_Java_c27c4cc7"
+        },
+        {
+            "type": "java",
+            "name": "Launch StudentTest",
+            "request": "launch",
+            "mainClass": "chapter5.StudentTest",
+            "projectName": "Inflean_Java_c27c4cc7"
+        },
+        {
+            "type": "java",
+            "name": "Launch BirthDayTest",
+            "request": "launch",
+            "mainClass": "chapter5.hide.BirthDayTest",
+            "projectName": "Inflean_Java_c27c4cc7"
+        },
+        {
+            "type": "java",
+            "name": "Launch StudentTest(1)",
+            "request": "launch",
+            "mainClass": "chapter5.reference.StudentTest",
+            "projectName": "Inflean_Java_c27c4cc7"
+        },
+        {
+            "type": "java",
+            "name": "Launch TakeTrans",
+            "request": "launch",
+            "mainClass": "chapter6.cooperation.TakeTrans",
+            "projectName": "Inflean_Java_c27c4cc7"
+        },
+        {
+            "type": "java",
+            "name": "Launch CompanyTest",
+            "request": "launch",
+            "mainClass": "chapter6.singleton.CompanyTest",
+            "projectName": "Inflean_Java_c27c4cc7"
+        },
+        {
+            "type": "java",
+            "name": "Launch StudentTest1",
+            "request": "launch",
+            "mainClass": "chapter6.staticex.StudentTest1",
+            "projectName": "Inflean_Java_c27c4cc7"
+        },
+        {
+            "type": "java",
+            "name": "Launch CallAnotherConst",
+            "request": "launch",
+            "mainClass": "chapter6.thisex.CallAnotherConst",
+            "projectName": "Inflean_Java_c27c4cc7"
+        },
+        {
+            "type": "java",
+            "name": "Launch ThisExample",
+            "request": "launch",
+            "mainClass": "chapter6.thisex.ThisExample",
+            "projectName": "Inflean_Java_c27c4cc7"
+        },
+        {
+            "type": "java",
+            "name": "Launch ArrayTest",
+            "request": "launch",
+            "mainClass": "chapter7.array.ArrayTest",
+            "projectName": "Inflean_Java_c27c4cc7"
+        },
+        {
+            "type": "java",
+            "name": "Launch ArrayTest2",
+            "request": "launch",
+            "mainClass": "chapter7.array.ArrayTest2",
+            "projectName": "Inflean_Java_c27c4cc7"
+        },
+        {
+            "type": "java",
+            "name": "Launch BookArray",
+            "request": "launch",
+            "mainClass": "chapter7.array.BookArray",
+            "projectName": "Inflean_Java_c27c4cc7"
+        },
+        {
+            "type": "java",
+            "name": "Launch ObjectCopy",
+            "request": "launch",
+            "mainClass": "chapter7.array.ObjectCopy",
+            "projectName": "Inflean_Java_c27c4cc7"
+        },
+        {
+            "type": "java",
+            "name": "Launch ArrayListTest(1)",
+            "request": "launch",
+            "mainClass": "chapter7.array.arraylist.ArrayListTest",
+            "projectName": "Inflean_Java_c27c4cc7"
+        },
+        {
+            "type": "java",
+            "name": "Launch StudentTest(2)",
+            "request": "launch",
+            "mainClass": "chapter7.array.arraylist.StudentTest",
+            "projectName": "Inflean_Java_c27c4cc7"
+        },
+        {
+            "type": "java",
+            "name": "Launch AnimalTest",
+            "request": "launch",
+            "mainClass": "chapter8.inheritance.AnimalTest",
+            "projectName": "Inflean_Java_c27c4cc7"
+        },
+        {
+            "type": "java",
+            "name": "Launch CustomerTest1",
+            "request": "launch",
+            "mainClass": "chapter8.inheritance.CustomerTest1",
+            "projectName": "Inflean_Java_c27c4cc7"
+        },
+        {
+            "type": "java",
+            "name": "Launch OverridingTest",
+            "request": "launch",
+            "mainClass": "chapter8.inheritance.OverridingTest",
+            "projectName": "Inflean_Java_c27c4cc7"
+        },
+        {
+            "type": "java",
+            "name": "Launch CustomerTest1(1)",
+            "request": "launch",
+            "mainClass": "chapter8.test.CustomerTest1",
+            "projectName": "Inflean_Java_c27c4cc7"
+        },
+        {
+            "type": "java",
+            "name": "Launch ComputerTest",
+            "request": "launch",
+            "mainClass": "chapter9.abstractex.ComputerTest",
+            "projectName": "Inflean_Java_c27c4cc7"
+        },
+        {
+            "type": "java",
+            "name": "Launch MainBoard",
+            "request": "launch",
+            "mainClass": "chapter9.gamelevel.MainBoard",
+            "projectName": "Inflean_Java_c27c4cc7"
+        },
+        {
+            "type": "java",
+            "name": "Launch CarTest",
+            "request": "launch",
+            "mainClass": "chapter9.template.CarTest",
+            "projectName": "Inflean_Java_c27c4cc7"
+        },
+        {
+            "type": "java",
+            "name": "Launch ArrayExceptionTest",
+            "request": "launch",
+            "mainClass": "chpater14.exception.ArrayExceptionTest",
+            "projectName": "Inflean_Java_c27c4cc7"
+        },
+        {
+            "type": "java",
+            "name": "Launch AutoCloseTest",
+            "request": "launch",
+            "mainClass": "chpater14.exception.AutoCloseTest",
+            "projectName": "Inflean_Java_c27c4cc7"
+        },
+        {
+            "type": "java",
+            "name": "Launch ExceptionTest",
+            "request": "launch",
+            "mainClass": "chpater14.exception.ExceptionTest",
+            "projectName": "Inflean_Java_c27c4cc7"
+        },
+        {
+            "type": "java",
+            "name": "Launch IDFormatTest",
+            "request": "launch",
+            "mainClass": "chpater14.exception.IDFormatTest",
+            "projectName": "Inflean_Java_c27c4cc7"
+        },
+        {
+            "type": "java",
+            "name": "Launch ThrowsException",
+            "request": "launch",
+            "mainClass": "chpater14.exception.ThrowsException",
+            "projectName": "Inflean_Java_c27c4cc7"
+        },
+        {
+            "type": "java",
+            "name": "Launch HellowWorld",
+            "request": "launch",
+            "mainClass": "first.HellowWorld",
+            "projectName": "Inflean_Java_c27c4cc7"
+        },
+        {
+            "type": "java",
+            "name": "Launch CustomerTest(1)",
+            "request": "launch",
+            "mainClass": "witharraylist.CustomerTest",
+            "projectName": "Inflean_Java_c27c4cc7"
+        }
+    ]
+}
