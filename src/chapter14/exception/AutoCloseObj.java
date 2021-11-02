@@ -1,4 +1,4 @@
-package chpater14.exception;
+package chapter14.exception;
 
 public class AutoCloseObj implements AutoCloseable {
 

@@ -1,4 +1,4 @@
-package chpater14.exception;
+package chapter14.exception;
 
 import java.io.FileInputStream;
 import java.io.FileNotFoundException;
